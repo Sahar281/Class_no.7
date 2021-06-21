@@ -7,5 +7,6 @@ public class CLASS7 {
             System.out.println(1);
             System.out.println("3");
             System.out.println("5.1");
+            System.out.println("5.2");
         }
 }
